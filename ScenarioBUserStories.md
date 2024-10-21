@@ -16,7 +16,7 @@
 
 - Does weather bias your mood? -> Yes, worse weather correlates to a worse mood.
 
-## Gary McPherson - up2207649
+## Gary McPherson - up2121666
 
 - How would you like users to interact with the app when weather changes mid-session? Should the music transition automatically, or prompt users for input? -> Yes, the music should transition automatically dependent on the current weather.
 
