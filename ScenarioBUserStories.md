@@ -3,6 +3,8 @@
 ## William Watson - up2207649
 
 - What would you improve about your current music client? -> Randomising feature to eliminate repeating music.
+
+## Azad Al-dawoodi - up2038282
   
 - How important is it to offer offline functionality, especially when real-time weather data is unavailable? -> Not important, will use if offered for free.
 
@@ -10,7 +12,11 @@
 
 - How important is visual feedback (e.g., animations, background images) to accompany the music in alignment with the weather? -> Not important, background app use.
 
+## Ryan Jones - up2158448
+
 - Does weather bias your mood? -> Yes, worse weather correlates to a worse mood.
+
+## Gary McPherson - up2207649
 
 - How would you like users to interact with the app when weather changes mid-session? Should the music transition automatically, or prompt users for input? -> Yes, the music should transition automatically dependent on the current weather.
 
