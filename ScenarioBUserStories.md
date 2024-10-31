@@ -31,3 +31,8 @@
 
 - Q: How would you like users to interact with the app when weather changes mid-session? Should the music transition automatically, or prompt users for input?
 - A: Yes, the music should transition automatically dependent on the current weather.
+
+## Stephanie Oluoha - up2294223
+
+- Q: Would you like the app to tailor music to your mood with a quick in-app questionnaire??
+- A: Yes, I'd like that
